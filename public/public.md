@@ -1,0 +1,1 @@
+En esta carpeta se contienen los archivos accesible poor el cliente (navegador). Aqui se almacenas las páginas TML, CSS y Java que forman parte de la interfaz de usuario
